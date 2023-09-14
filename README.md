@@ -47,21 +47,10 @@ Select a ticket as an Admin, and manipulate the settings. "Assign" the ticket to
 ![image](https://github.com/Chrismcclendon0/ticket-lifecycle/assets/144953146/7ca4ce9b-b954-4fa3-9682-5cda117b18f0)
 
 Use the thread and post replies to keep managers or admins up to date with ticket progress.
+
+![image](https://github.com/Chrismcclendon0/ticket-lifecycle/assets/144953146/37170b15-006b-4015-bbe4-6fd08986b37f)
+
+Once ticket is SLA, update thread post and select to "Resolve" ticket.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
