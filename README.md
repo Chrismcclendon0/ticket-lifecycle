@@ -36,6 +36,13 @@ Use "End Users osTicket Url, to sign in as one of the previous created users.
 
 Select "Open new ticket." Create new ticket and select help topic.
 
+![image](https://github.com/Chrismcclendon0/ticket-lifecycle/assets/144953146/a40a2f5a-f217-49f7-8dcb-ca9ce02ffb8a)
+
+Log into the official osTicket database as an admin and view the created tickets in queue.
+
+![image](https://github.com/Chrismcclendon0/ticket-lifecycle/assets/144953146/bf8446a5-8c09-4361-a8ce-f9f16d0c67b9)
+
+Select a ticket as an Admin, and manipulate the settings. "Assign" the ticket to one of the created agents in the respective department. Change the "priority" to emergency. Alter the "SLA" to "Sev-C." 
 </p>
 <br />
 
