@@ -32,6 +32,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 Use "End Users osTicket Url, to sign in as one of the previous created users. 
 
+![image](https://github.com/Chrismcclendon0/ticket-lifecycle/assets/144953146/3179fc6f-ab6d-447c-aa50-aad645b80f69)
+
+Select "Open new ticket." Create new ticket and select help topic.
+
 </p>
 <br />
 
