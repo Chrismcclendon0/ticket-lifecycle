@@ -43,6 +43,10 @@ Log into the official osTicket database as an admin and view the created tickets
 ![image](https://github.com/Chrismcclendon0/ticket-lifecycle/assets/144953146/bf8446a5-8c09-4361-a8ce-f9f16d0c67b9)
 
 Select a ticket as an Admin, and manipulate the settings. "Assign" the ticket to one of the created agents in the respective department. Change the "priority" to emergency. Alter the "SLA" to "Sev-C." 
+
+![image](https://github.com/Chrismcclendon0/ticket-lifecycle/assets/144953146/7ca4ce9b-b954-4fa3-9682-5cda117b18f0)
+
+Use the thread and post replies to keep managers or admins up to date with ticket progress.
 </p>
 <br />
 
