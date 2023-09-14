@@ -25,6 +25,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+- End Users osTicket URL: http://localhost/osTicket/ 
+
 <h2>Lifecycle Stages</h2>
 
 
